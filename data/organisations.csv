@@ -1,0 +1,10 @@
+org_id,name,type,country,licence_status,licence_valid_to,licensed_volume_kg
+G-01,Saurashtra Ginning Co,Ginner,India,Active,2027-03-31,120000
+G-02,Vidarbha Cotton Ginners,Ginner,India,Active,2027-03-31,50000
+G-03,Narmada Ginning Mills,Ginner,India,Active,2027-03-31,40000
+G-04,Khandesh Agro Gin,Ginner,India,Expired,2026-06-30,60000
+T-01,Cottonline Trading,Trader,India,Active,2027-03-31,
+T-02,Sabarmati Fibre Traders,Trader,India,Active,2027-03-31,
+S-01,Shree Tapi Spinning Mills,Spinner,India,Active,2027-03-31,
+S-02,Mahi Yarns Pvt Ltd,Spinner,India,Active,2027-03-31,
+M-01,Westbridge Fabrics,Fabric Mill,Bangladesh,Active,2027-03-31,

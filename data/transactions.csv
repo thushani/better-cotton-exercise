@@ -1,0 +1,27 @@
+txn_ref,declared_on,seller_org_id,buyer_org_id,product,quantity,unit,status
+TXN-0101,2026-07-02,G-01,T-01,Lint cotton,25000,kg,Confirmed
+TXN-0102,2026-07-03,G-02,T-02,Lint cotton,18000,kg,Confirmed
+TXN-0103,2026-07-05,G-01,S-01,Lint cotton,30000,kg,Confirmed
+TXN-0104,2026-07-08,G-02,T-01,Lint cotton,22000,kg,Confirmed
+TXN-0105,2026-07-10,T-01,S-01,Lint cotton,20000,kg,Confirmed
+TXN-0106,2026-07-12,G-03,T-02,Lint cotton,15000,kg,Confirmed
+TXN-0107,2026-07-15,T-02,S-02,Lint cotton,12000,kg,Confirmed
+TXN-0108,2026-07-18,G-04,T-01,Lint cotton,10000,kg,Confirmed
+TXN-0109,2026-07-21,G-01,T-02,Lint cotton,16000,kg,Confirmed
+TXN-0110,2026-07-24,T-01,S-02,Lint cotton,14000,kg,Confirmed
+TXN-0111,2026-07-28,G-03,S-01,Lint cotton,20000,kg,Confirmed
+TXN-0112,2026-08-01,T-02,S-01,Lint cotton,22000,kg,Confirmed
+TXN-0113,2026-08-04,S-01,M-01,Lint cotton,40000,kg,Confirmed
+TXN-0114,2026-08-06,G-02,T-01,Lint cotton,90,bales,Confirmed
+TXN-0115,2026-08-09,T-02,S-02,Lint cotton,18000,kg,Confirmed
+TXN-0116,2026-08-12,G-03,T-01,Lint cotton,12000,kg,Confirmed
+TXN-0117,2026-08-14,T-01,S-01,Lint cotton,24000,kg,Confirmed
+TXN-0117,2026-08-14,T-01,S-01,Lint cotton,24000,kg,Confirmed
+TXN-0118,2026-08-18,G-01,T-01,Lint cotton,12000,kg,Pending
+TXN-0119,2026-08-20,T-01,X-99,Lint cotton,5000,kg,Confirmed
+TXN-0120,2026-08-22,S-02,M-01,Lint cotton,18000,kg,Confirmed
+TXN-0121,2026-08-25,G-02,S-02,Lint cotton,9000,kg,Pending
+TXN-0122,2026-08-27,T-02,S-01,Lint cotton,6000,kg,Rejected
+TXN-0123,2026-08-30,T-01,S-02,Lint cotton,25000,kg,Pending
+TXN-0124,2026-09-02,G-01,S-02,Lint cotton,11000,kg,Confirmed
+TXN-0125,2026-09-05,S-01,M-01,Lint cotton,25000,kg,Confirmed
